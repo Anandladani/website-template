@@ -1,0 +1,1390 @@
+@media (min-width:1024px) and (max-width:1200px){
+
+/* ////-----------------Our Menu -------------------////     */
+.menu{
+    height: 250px;
+    width: 30vw;
+    margin: 10px 10px; 
+}
+#menu_img{
+    height: 175px;
+    width: 140px;   
+}
+/* ////-----------------our master chief -------------------////     */ 
+.chef{
+    height: 520px;
+    width: 220px;
+    margin: 0px 15px;     
+}
+.chef1{
+    height: 300px;
+    width: 220px;
+}    
+.chef2{
+    height: 300px;
+    width: 220px;
+}    
+.chef3{
+    height: 300px;
+    width: 220px;
+}    
+.chef4{
+    height: 300px;
+    width: 220px;
+} 
+ 
+}
+/* //--------------------------------------------------------------// */
+@media (min-width:900px) and (max-width:1024px){
+
+/* ////-----------------Container-------------------////     */
+
+#order-btn{
+    height: 60px;
+    width:  120px;
+    font-size: 17px;
+}
+#menu-btn{
+   height: 60px;
+   width:  120px;
+   font-size: 17px;
+}
+.quotes{
+    font-size: 50px;
+    color: white;   
+}
+/* ////-----------------Apetizer Restuarant-------------------//// */
+.h-primary1{
+    font-size: 45px;
+    font-weight: 600;
+}
+/* ////-----------------Catering Services--------------------//// */
+#Services{
+    height: 380px;
+    width: 330px;
+    margin: 0 15px;
+}
+/* ////-----------------Our Menu -----------------------------//// */
+
+.menu{
+    height: 280px;
+    width: 30vw;
+    margin: 10px 10px;
+   
+}
+#menu_img{
+    height: 205px;
+    width: 140px;
+    
+    
+}
+/* ////-----------------our master chief---------------------//// */
+
+    .chef{
+        height: 520px;
+        width: 190px;
+        margin: 0px 15px;
+        
+    }
+    .chef1{
+        height: 300px;
+        width: 190px;
+    }    
+    .chef2{
+        height: 300px;
+        width: 190px;
+    }    
+    .chef3{
+        height: 300px;
+        width: 190px;
+    }    
+    .chef4{
+        height: 300px;
+        width: 190px;
+    } 
+/* ////----------------Happy Customer--------------------------//// */
+
+.childbox7-3{
+    display: none;
+}
+ /* ///////------------------Footer---------------------------//// */
+     
+ .hotel-info{
+    margin: 0px 10px;
+  
+}
+.hotel-info1{ 
+    margin: 0px 10px;
+ 
+}
+.text17{   
+    transform: translateX(28px);
+}
+
+}
+/* //--------------------------------------------------------------// */
+@media (min-width:768px) and (max-width:900px){
+
+/* ////-----------------Line (topbar)-----------------////     */
+#line{
+    display: none;
+}
+
+/* ////-------------------Navbar--------------------//// */
+
+nav{
+    height: 80px; 
+    display:flex;
+    margin-top: 0px;
+    background-color: black; 
+}
+nav ul{
+
+    width: 100%;
+    position: absolute;
+    top: 80px;
+    margin-right: 0px;
+    visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;  
+}
+ul.show{
+    visibility: visible;
+}
+ul li{
+    list-style: none;
+    padding: 10px 0px;
+    margin: 5px 0px;
+    margin-left: -33px;
+    width: 100%;
+    
+    
+}
+ul li:hover{
+    background-color: rgb(36, 36, 36);
+}
+ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    padding: 0px;
+    margin-left: 30px;
+
+}
+.nav-item-1 a{
+    color: white;
+}
+.nav-item-6 a{
+      padding: 10px;
+   
+}
+#logo{
+    font-size: 28px;
+    color: white;
+    margin:15px;
+    margin-left: 40px;
+}
+#iconbar{
+    display: initial;
+    margin:15px;
+    margin-right: 40px;
+   
+}
+
+/* ////-----------------Container---------------------//// */
+#container{
+    height: 510px;
+    width: 100%;
+
+}
+.quotes{
+    font-size: 45px;
+    color: white;
+    
+}
+#carouselExampleCaptions{
+    height: 590px;
+    width: 100%;
+}
+.containerchild::before{
+    height: 590px;
+    width: 100%; 
+}
+.carousel-item img{
+    height: 590px;
+    width: 100%;
+}
+#order-btn{
+    height: 60px;
+    width:  110px;
+    font-size: 17px;
+}
+#menu-btn{
+   height: 60px;
+   width:  110px;
+   font-size: 17px;
+}
+/* ////----------------Apetizer Restuarant---------------------//// */
+.h-primary1{
+    font-size: 42px;
+    font-weight: 600;
+}
+
+/* ////---------------------Catering Services---------------//// */
+#Services{
+    height: 380px;
+    width: 330px;
+    margin: 0 10px;
+}    
+ /* ////-----------------Our Menu -------------------////     */
+.menu{
+    height: 200px;
+    width: 45vw; 
+    flex-wrap: wrap;
+   
+}
+.text5{
+    font-size: 32px;
+    text-align: center;
+    padding-top: 60px;
+   
+    
+}
+/* ////------------------------Make Reservation --------------------////     */
+.text8{
+    margin: 10px 30px;   
+}
+
+ /* ////--------------------- our master chief------------------//// */
+    .childbox6{
+        flex-wrap: wrap;
+    }
+    .chef{
+        height: 520px;
+        width: 300px;
+        margin: 0px 15px;
+        
+    }
+    .chef1{
+        height: 300px;
+        width: 300px;
+        
+    }
+    .chef2{
+        height: 300px;
+        width: 300px;
+       
+    }
+    .chef3{
+        height: 300px;
+        width: 300px;
+    
+    }
+    .chef4{
+        height: 300px;
+        width: 300px;
+      
+    }
+/* ////----------------Happy Customer---------------------//// */
+.childbox7-3{
+    display: none;
+}
+
+/* ///////------------------Footer---------------------------//// */
+#footer-container{
+
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.hotel-info{
+    height: 320px;
+    margin: 0px 25px;
+    width: 40vw;
+   
+}
+.hotel-info1{
+    height: 320px;
+    margin: 0px 25px;
+    width: 40vw;
+   
+
+}
+.text17{
+    
+    transform: translateX(75px);
+}
+#email2{
+    height: 45px;
+    width: 40vw;
+    font-size: 16px;
+    margin-top: 15px;
+}
+#subscribe-btn{
+    height: 45px;
+    width: 40vw;
+    font-size: 16px;
+    margin-top: 10px;
+}
+#albums{
+    height: 200px;
+    width: 40vw;
+   
+}
+.album1{
+    width: 13.33vw;
+    height: 100px;
+   
+}
+.album2{
+    width: 13.33vw;
+    height: 100px;
+
+}
+.album3{
+    width: 13.33vw;
+    height: 100px;
+
+}
+.album4{
+    width: 13.33vw;
+    height: 100px;
+    
+}
+.album5{
+    width: 13.33vw;
+    height: 100px;
+   
+}
+.album6{
+    width: 13.33vw;
+    height: 100px;
+    
+}
+    
+
+}
+/* //--------------------------------------------------------------// */
+@media (min-width:600px) and (max-width:768px){
+/* ////-----------------Line (topbar)-----------------////     */
+#line{
+    display: none;
+}
+/* ////-------------------Navbar--------------------//// */
+
+nav{
+    height: 60px; 
+    display:flex;
+    margin-top: 0px;
+    background-color: black; 
+
+}
+nav ul{
+
+    width: 100%;
+    position: absolute;
+    top: 60px;
+    margin-right: 0px;
+    visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    
+}
+ul.show{
+    visibility: visible;
+}
+ul li{
+    list-style: none;
+    padding: 10px 0px;
+    margin: 5px 0px;
+    margin-left: -33px;
+    width: 100%;
+    
+    
+}
+ul li:hover{
+    background-color: rgb(36, 36, 36);
+}
+ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    padding: 0px;
+    margin-left: 30px;
+
+}
+.nav-item-1 a{
+    color: white;
+}
+.nav-item-6 a{
+      padding: 10px;
+   
+}
+#logo{
+    font-size: 25px;
+    color: white;
+    margin:15px;
+    margin-left: 40px;
+}
+#iconbar{
+    display: initial;
+    margin:15px;
+    margin-right: 40px;
+   
+}
+/* ////-----------------Container-----------------//// */
+#container{
+    height: 510px;
+    width: 100%;
+    /* border: 2px solid black; */
+}
+.quotes{
+    font-size: 40px;
+    color: white;
+    
+}
+#carouselExampleCaptions{
+    height: 570px;
+ 
+}
+.containerchild::before{
+    height: 570px;  
+}
+.carousel-item img{
+    height: 570px; 
+}
+#order-btn{
+    height: 50px;
+    width:  100px;
+    font-size: 17px;
+}
+#menu-btn{
+   height: 50px;
+   width:  100px;
+   font-size: 17px;
+
+}
+/* ////----------------Apetizer Restuarant---------------------//// */
+.h-primary1{
+    font-size: 40px;
+    font-weight: 600;
+}   
+ /* ////---------------------Catering Services---------------//// */
+#Services{
+    height: 420px;
+    width: 330px;
+    margin: 0 10px;
+}    
+ /* ////-----------------Our Menu -------------------////     */
+ .menu{
+    height: 200px;
+    width: 90vw; 
+    flex-wrap: wrap;
+   
+} 
+.text5{
+    font-size: 32px;
+    text-align: center;
+    padding-top: 60px;
+     
+}   
+/* ////------------------------Make Reservation --------------------////     */
+.childbox5{
+    height: 40px;
+    width: 250px;
+     
+}
+.text8{
+    margin: 10px 20px;   
+}
+
+ /* ////-------------- our master chief------------------//// */
+ .childbox6{
+    flex-wrap: wrap;
+}
+/* ////----------------Happy Customer---------------------//// */
+.childbox7-3{
+    display: none;
+}
+.childbox7-1{
+    display: none;
+}
+
+/* ///////------------------Footer---------------------------//// */
+#footer-container{
+
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.hotel-info{
+    height: 320px;
+    margin: 0px 20px;
+    width: 40vw;
+   
+}
+.hotel-info1{
+    height: 320px;
+    margin: 0px 20px;
+    width: 40vw;
+}
+.text17{
+    
+    transform: translateX(60px);
+}
+#email2{
+    height: 45px;
+    width: 40vw;
+    font-size: 16px;
+    margin-top: 15px;
+}
+#subscribe-btn{
+    height: 45px;
+    width: 40vw;
+    font-size: 16px;
+    margin-top: 10px;
+}
+#albums{
+    height: 200px;
+    width: 40vw;
+   
+}
+.album1{
+    width: 13.33vw;
+    height: 100px;
+   
+}
+.album2{
+    width: 13.33vw;
+    height: 100px;
+
+}
+.album3{
+    width: 13.33vw;
+    height: 100px;
+
+}
+.album4{
+    width: 13.33vw;
+    height: 100px;
+    
+}
+.album5{
+    width: 13.33vw;
+    height: 100px;
+   
+}
+.album6{
+    width: 13.33vw;
+    height: 100px;
+    
+}
+
+}
+/* //--------------------------------------------------------------// */
+@media (min-width:480px) and (max-width:600px){
+/* ////-----------------Line (topbar)-----------------////     */
+#line{
+    display: none;
+}
+/* ////-------------------Navbar--------------------//// */
+
+nav{
+    height: 50px; 
+    display:flex;
+    margin-top: 0px;
+    background-color: black; 
+
+}
+nav ul{
+
+    width: 100%;
+    position: absolute;
+    top: 50px;
+    margin-right: 0px;
+    visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    
+}
+ul.show{
+    visibility: visible;
+}
+ul li{
+    list-style: none;
+    padding: 10px 0px;
+    margin: 5px 0px;
+    margin-left: -33px;
+    width: 100%;
+    
+    
+}
+ul li:hover{
+    background-color: rgb(36, 36, 36);
+}
+ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    padding: 0px;
+    margin-left: 30px;
+
+}
+.nav-item-1 a{
+    color: white;
+}
+.nav-item-6 a{
+      padding: 10px;
+   
+}
+#logo{
+    font-size: 25px;
+    color: white;
+    margin:15px;
+    margin-left: 40px;
+}
+#iconbar{
+    display: initial;
+    margin:15px;
+    margin-right: 40px;
+   
+}
+/* ////-----------------Container-----------------//// */
+#container{
+    height: 510px;
+    width: 100%;
+}
+.quotes{
+    font-size: 40px;
+    color: white;
+    
+}
+#carouselExampleCaptions{
+    height: 560px; 
+}
+.containerchild::before{
+    height: 560px;
+}
+.carousel-item img{
+    height: 560px;
+}
+#order-btn{
+    height: 50px;
+    width:  100px;
+    font-size: 17px;
+}
+#menu-btn{
+   height: 50px;
+   width:  100px;
+   font-size: 17px;
+
+}
+/* ////----------------Apetizer Restuarant---------------------//// */
+.h-primary1{
+    font-size: 40px;
+    font-weight: 600;
+} 
+ /* ////---------------------Catering Services---------------//// */
+
+.services-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 20px;
+    
+}
+ #Services{
+    height: 330px;
+    width: 420px;
+    margin: 0 20px;
+        
+}
+ /* ////-----------------Our Menu -------------------////     */
+
+.menu{
+    height: 200px;
+    width: 80vw;
+    margin: 10px 10px;
+    display: flex;
+    flex-wrap: wrap;
+} 
+.text5{
+    font-size: 32px;
+    text-align: center;
+    padding-top: 60px;
+              
+}
+/* ////------------------------Make Reservation --------------------////     */
+.childbox5{
+    height: 40px;
+    width: 350px;  
+}
+.text8{
+    margin: 10px 0px;   
+}
+/* ////----------------Happy Customer---------------------//// */
+.childbox7-3{
+    display: none;
+}
+.childbox7-1{
+    display: none;
+}      
+/* /////--------------------poster-------------------------/////// */
+#box8{
+    display: flex;
+    flex-direction: column;   
+}
+
+/* ////-------------- our master chief------------//// */
+.childbox6{
+    flex-wrap: wrap;
+
+}
+.chef{
+    height: 520px;
+    width: 300px;
+    margin: 0px 15px;
+    
+}
+.chef1{
+    height: 300px;
+    width: 300px;
+    
+}
+.chef2{
+    height: 300px;
+    width: 300px;
+   
+}
+.chef3{
+    height: 300px;
+    width: 300px;
+
+}
+.chef4{
+    height: 300px;
+    width: 300px;
+  
+}
+
+/* ///////------------------Footer---------------------------//// */
+#footer-container{
+
+    flex-wrap: wrap;
+}
+.data-1{
+    height: 210px;
+    margin: 0px 20px;
+    width: 90vw;
+}
+.data-2{
+    height: 310px;
+    margin: 0px 20px;
+    width: 90vw;
+}
+.data-3{
+    height: 270px;
+    margin: 0px 20px;
+    width: 90vw;
+}
+.data-4{
+    height: 280px;
+    margin: 0px 20px;
+    width: 90vw;
+}
+.text17{
+    
+    transform: translateX(100px);
+}
+#email2{
+    height: 45px;
+    width: 90vw;
+    font-size: 16px;
+    margin-top: 15px;
+}
+#subscribe-btn{
+    height: 45px;
+    width: 90vw;
+    font-size: 16px;
+    margin-top: 10px;
+}
+#albums{
+    height: 200px;
+    width: 90vw;
+   
+}
+.album1{
+    width: 30vw;
+    height: 100px;
+   
+}
+.album2{
+    width: 30vw;
+    height: 100px;
+
+}
+.album3{
+    width: 30vw;
+    height: 100px;
+
+}
+.album4{
+    width: 30vw;
+    height: 100px;
+    
+}
+.album5{
+    width: 30vw;
+    height: 100px;
+   
+}
+.album6{
+    width: 30vw;
+    height: 100px;
+    
+}
+
+}
+/* //--------------------------------------------------------------// */
+@media (min-width:320px) and (max-width:480px){
+/* ////-----------------Line (topbar)-----------------////     */
+#line{
+    display: none;
+}
+/* ////-------------------Navbar--------------------//// */
+
+nav{
+    height: 40px; 
+    display:flex;
+    margin-top: 0px;
+    background-color: black; 
+
+}
+nav ul{
+
+    width: 100%;
+    position: absolute;
+    top: 40px;
+    margin-right: 0px;
+    visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    
+}
+ul.show{
+    visibility: visible;
+}
+ul li{
+    list-style: none;
+    padding: 6px 0px;
+    margin: 3px 0px;
+    margin-left: -33px;
+    width: 100%;
+    
+    
+}
+ul li:hover{
+    background-color: rgb(36, 36, 36);
+}
+ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    padding: 0px;
+    margin-left: 30px;
+
+}
+.nav-item-1 a{
+    color: white;
+}
+.nav-item-6 a{
+      padding: 6px;
+   
+}
+#logo{
+    font-size: 20px;
+    color: white;
+    margin:15px;
+    margin-left: 20px;
+}
+#iconbar{
+    display: initial;
+    margin-right: 20px;
+   
+}
+/* ////-----------------Container-----------------//// */
+#container{
+    height: 510px;
+    width: 100%;
+}
+
+
+
+#carouselExampleCaptions{
+    height: 550px; 
+}
+.containerchild::before{
+    height: 550px; 
+}
+.carousel-item img{
+    height: 550px;  
+}
+.quotes{
+    font-size: 30px;
+    color: white;
+    
+}
+#order-btn{
+    height: 40px;
+    width:  100px;
+    font-size: 17px;
+}
+#menu-btn{
+   height: 40px;
+   width: 100px;
+   font-size: 17px;
+
+} 
+/* ////----------------Apetizer Restuarant---------------------//// */
+.h-primary1{
+    font-size: 38px;
+    font-weight: 600;
+}   
+/* ////------------------------Box-2-------------------------//// */
+
+#box2{
+    height: 600px;
+    width: 100%;
+    flex-direction: column;
+
+    justify-content: center;
+
+}
+#box2::before{
+  
+    height: 600px;
+    width: 100%;
+
+}
+.childbox2{
+    margin: 20px 0px;
+}
+
+  /* ////---------------------Catering Services---------------//// */
+
+  .services-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 20px;
+    
+}
+#Services{
+        height: 350px;
+        width: 420px;
+        margin: 0 20px;
+        
+    }   
+ /* ////-----------------Our Menu -------------------////     */
+
+.menu{
+    height: 200px;
+    width: 91vw;
+    margin: 10px 0px;
+    display: flex;
+    flex-wrap: wrap;
+} 
+#menu_img{
+    height: 125px;
+    width: 90px;
+    
+    
+}
+.photo{
+    height: 90px;
+    width: 90px;
+    border-radius: 100%;
+   
+}
+.text5{
+    font-size: 32px;
+    text-align: center;
+    padding-top: 60px;
+   
+    
+}
+ /* ////------------------------Make Reservation --------------------////     */
+.childbox5{
+    height: 40px;
+    width: 290px;
+    
+    
+}  
+.text8{
+    margin: 10px 0px;   
+}  
+/* ////----------------Happy Customer---------------------//// */
+.childbox7-3{
+    display: none;
+}
+.childbox7-1{
+    display: none;
+}
+/* /////--------------------poster-------------------------/////// */
+#box8{
+    display: flex;
+    flex-direction: column;   
+}
+
+ /* ////-------------- our master chief////////// */
+ .childbox6{
+    flex-wrap: wrap;
+}
+
+/* ///////------------------Footer---------------------------//// */
+#footer-container{
+    flex-wrap: wrap;
+}
+.data-1{
+    height: 270px;
+    margin: 0px 10px;
+    width: 90vw;
+}
+.data-2{
+    height: 330px;
+    margin: 0px 10px;
+    width: 90vw;
+}
+.data-3{
+    height: 270px;
+    margin: 0px 10px;
+    width: 90vw;
+}
+.data-4{
+    height: 280px;
+    margin: 0px 10px;
+    width: 90vw;
+}
+.text17{   
+    transform: translateX(50px);
+}
+#email2{
+    height: 45px;
+    width: 90vw;
+    font-size: 16px;
+    margin-top: 15px;
+}
+#subscribe-btn{
+    height: 45px;
+    width: 90vw;
+    font-size: 16px;
+    margin-top: 10px;
+}
+#albums{
+    height: 200px;
+    width: 90vw;
+   
+}
+.album1{
+    width: 30vw;
+    height: 100px;
+   
+}
+.album2{
+    width: 30vw;
+    height: 100px;
+}
+.album3{
+    width: 30vw;
+    height: 100px;
+}
+.album4{
+    width: 30vw;
+    height: 100px;  
+}
+.album5{
+    width: 30vw;
+    height: 100px;
+}
+.album6{
+    width: 30vw;
+    height: 100px;  
+}
+
+}
+/* //--------------------------------------------------------------// */
+@media (max-width:320px){
+/* ////-----------------Line (topbar)-----------------////     */
+#line{
+    display: none;
+}
+/* ////-------------------Navbar--------------------//// */
+
+nav{
+    height: 40px; 
+    display:flex;
+    margin-top: 0px;
+    background-color: black; 
+
+}
+nav ul{
+
+    width: 100%;
+    position: absolute;
+    top: 40px;
+    margin-right: 0px;
+    visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    
+}
+ul.show{
+    visibility: visible;
+}
+ul li{
+    list-style: none;
+    padding: 6px 0px;
+    margin: 3px 0px;
+    margin-left: -33px;
+    width: 100%;
+    
+    
+}
+ul li:hover{
+    background-color: rgb(36, 36, 36);
+}
+ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    padding: 0px;
+    margin-left: 30px;
+
+}
+
+
+.nav-item-1 a{
+    color: white;
+}
+.nav-item-6 a{
+      padding: 6px;
+   
+}
+#logo{
+    font-size: 20px;
+    color: white;
+    margin:15px;
+    margin-left: 20px;
+}
+#iconbar{
+    display: initial;
+    margin-right: 20px;
+   
+}
+/* ////-----------------Container-----------------//// */
+#container{
+    height: 510px;
+    width: 100%;
+}
+
+
+
+#carouselExampleCaptions{
+    height: 550px; 
+}
+.containerchild::before{
+    height: 550px; 
+}
+.carousel-item img{
+    height: 550px;
+}
+.quotes{
+    font-size: 30px;
+    color: white;
+    
+}
+#order-btn{
+    height: 40px;
+    width:  100px;
+    font-size: 17px;
+}
+#menu-btn{
+   height: 40px;
+   width: 100px;
+   font-size: 17px;
+} 
+/* ////----------------Apetizer Restuarant---------------------//// */
+.h-primary1{
+    font-size: 38px;
+    font-weight: 600;
+}   
+/* ////------------------------Box-2-------------------------//// */
+
+#box2{
+    height: 600px;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+
+}
+#box2::before{
+    height: 600px;
+    width: 100%;
+}
+.childbox2{
+    margin: 20px 0px;
+}
+
+/* ////---------------------Catering Services---------------//// */
+
+.services-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 20px;
+    
+}
+#Services{
+        height: 350px;
+        width: 420px;
+        margin: 0 20px;
+        
+}   
+ /* ////-----------------Our Menu -------------------////     */
+
+.menu{
+    height: 200px;
+    width: 91vw;
+    margin: 10px 0px;
+    display: flex;
+    flex-wrap: wrap;
+} 
+#menu_img{
+    height: 125px;
+    width: 90px;
+    
+    
+}
+.photo{
+    height: 90px;
+    width: 90px;
+    border-radius: 100%;
+   
+}
+.text5{
+    font-size: 32px;
+    text-align: center;
+    padding-top: 60px;  
+}
+ /* ////------------------------Make Reservation --------------------////     */
+.childbox5{
+    height: 40px;
+    width: 290px; 
+}  
+.text8{
+    margin: 10px 0px;   
+}  
+/* ////----------------Happy Customer---------------------//// */
+.childbox7-3{
+    display: none;
+}
+.childbox7-1{
+    display: none;
+}
+/* /////--------------------poster-------------------------/////// */
+#box8{
+    display: flex;
+    flex-direction: column;   
+}
+ /* ////-------------- our master chief////////// */
+ .childbox6{
+    flex-wrap: wrap;
+}
+
+/* ///////------------------Footer---------------------------//// */
+#footer-container{
+
+    flex-wrap: wrap;
+}
+.data-1{
+    height: 270px;
+    margin: 0px 10px;
+    width: 90vw;
+}
+.data-2{
+    height: 330px;
+    margin: 0px 10px;
+    width: 90vw;
+}
+.data-3{
+    height: 270px;
+    margin: 0px 10px;
+    width: 90vw;
+}
+.data-4{
+    height: 280px;
+    margin: 0px 10px;
+    width: 90vw;
+}
+.text17{
+    transform: translateX(50px);
+}
+#email2{
+    height: 45px;
+    width: 90vw;
+    font-size: 16px;
+    margin-top: 15px;
+}
+#subscribe-btn{
+    height: 45px;
+    width: 90vw;
+    font-size: 16px;
+    margin-top: 10px;
+}
+#albums{
+    height: 200px;
+    width: 90vw;
+   
+}
+.album1{
+    width: 30vw;
+    height: 100px;
+   
+}
+.album2{
+    width: 30vw;
+    height: 100px;
+
+}
+.album3{
+    width: 30vw;
+    height: 100px;
+
+}
+.album4{
+    width: 30vw;
+    height: 100px;
+    
+}
+.album5{
+    width: 30vw;
+    height: 100px;
+   
+}
+.album6{
+    width: 30vw;
+    height: 100px;
+    
+}
+
+}
